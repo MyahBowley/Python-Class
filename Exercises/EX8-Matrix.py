@@ -13,7 +13,6 @@
 
 """
 Student: Myah Bowley
-Student ID: w0523461
 """
 
 import random
