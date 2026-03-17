@@ -4,7 +4,6 @@
 
 """
 Student: Myah Bowley
-Student ID: w0523461
 """
 
 def main():
